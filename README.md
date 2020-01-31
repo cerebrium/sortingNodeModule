@@ -23,7 +23,7 @@ app.listen(3000, () => {
     console.log(`server running on port: 3000`)
 })
 
-// --------------------------------------- end of code ------------------------------------------- // 
+// --------------------------------------- end of code ------------------------------------------- // <br />
 The available arguments are:
 
 'q': quicksort, takes a single array as an argument (see example above)<br />
