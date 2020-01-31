@@ -1,0 +1,11 @@
+{
+  "name": "sorting-node-package",
+  "version": "1.0.2",
+  "description": "a variety of sorting methods",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicholas Shankland",
+  "license": "MIT"
+}
