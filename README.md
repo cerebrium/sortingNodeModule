@@ -21,3 +21,8 @@ app.get('/', (req, res) => {
 app.listen(3000, () => {
     console.log(`server running on port: 3000`)
 })
+
+
+The available arguments are:
+'q': quicksort, takes a single array as an argument (see example above)
+'m': quicksort twice! author is in the process of writing a variety of other sorts, but for not this combines arrays then sorts them
